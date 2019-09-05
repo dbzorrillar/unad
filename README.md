@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<h1> BUENVENIDOS PROXIMOS INGENIEROS </h1>
+<h1> Hola Mundo </h1>
 
 </body>
 </html>
